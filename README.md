@@ -1,6 +1,4 @@
-
-
-### Sample application code for demonstrating streaming IoT Data to InfluxDB
+# Sample application code for demonstrating streaming IoT Data to InfluxDB Core (WIP)
 
 **Presentation**: https://www.slideshare.net/slideshow/ml-data-processing-for-industrial-iot-with-influxdb/271917286
 
